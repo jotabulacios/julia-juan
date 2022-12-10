@@ -1,6 +1,6 @@
 # pluto-course-template
 
-Template for a course website based on https://computationalthinking.mit.edu/Spring21/
+Template para el a course website based on https://computationalthinking.mit.edu/Spring21/
 
 #### see the [website this template generates](https://greimel.github.io/pluto-course-template)
 
